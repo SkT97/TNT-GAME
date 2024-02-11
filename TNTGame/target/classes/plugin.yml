@@ -1,0 +1,4 @@
+name: TNTGame
+version: '1.0-SNAPSHOT'
+main: me.skt97.tntgame.TNTGame
+api-version: '1.17'

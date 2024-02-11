@@ -1,0 +1,4 @@
+name: TNTGame
+version: '${project.version}'
+main: me.skt97.tntgame.TNTGame
+api-version: '1.17'
